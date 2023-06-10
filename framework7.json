@@ -1,0 +1,18 @@
+{
+  "cwd": "/Users/asial/projects/monacaTemplates/monaca-templates-script/framework7/framework7-v8-vue-splitter-view",
+  "type": [
+    "web"
+  ],
+  "name": "framework7-v8-vue-splitter-view",
+  "framework": "vue",
+  "template": "split-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
